@@ -1,1 +1,1 @@
-# Lexicon tests to enter education in dot net.
+Lexicon tests to enter education in dot net.
